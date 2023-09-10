@@ -67,7 +67,7 @@ Help us grow and make an impact on the Indian tech scene. Feel free to contribut
 Join us on our mission to advance the Indian coding community. Together, we'll shape the future of tech in India and beyond. Get started today!
 
 <div align="center">
-  <img src="adv-indian-coder-group-photo.png" alt="Adv Indian Coder Group Photo" width="400">
+  <img src="group pic.jpg" alt="Adv Indian Coder Group Photo" width="400">
 </div>
 
 ---
